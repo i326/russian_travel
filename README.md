@@ -1,23 +1,27 @@
-# Проект: Путешествие по России
+# Study project "Russian travel"
 
-### Обзор
-* Интро
-* Figma
-* Картинки
+### About
+* Intro
+* Design reference
+* Technologies
+* GutHub Pages 
 
-**Интро**
+**Intro**
 
-Здесь будет проект о путешествии по России.
-В Фигме мы разместили макет, в котором видно, как проект должен выглядеть на самых распространённых разрешениях экранов.
-Этот проект сложнее предыдущих, постарайтесь уделить ему больше времени.
+This is a project of an adaptive landing page about traveling in Russia.
+The Figma contains a layout that shows how the project should look on the most common screen resolutions.
 
-**Figma**
+**Design reference**
 
-* [Ссылка на макет в Figma](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0)
+* [Link to the layout in Figma](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0)
 
-**Картинки**
+**Technologies**
 
-Доставать картинки предстоит из Фигмы. Это расхожая практика, поэтому полезно потренироваться.
-Не забудьте [оптимизировать картинки](https://tinypng.com/), чтобы ваш сайт загружался быстрее.
+* HTML
+* CSS
+* Nested BEM methodology
+* Grids
 
-Удачи!
+**GitHub Pages**
+
+*[Link to the GitHub Pages](#)
