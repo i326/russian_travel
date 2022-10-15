@@ -24,4 +24,4 @@ The Figma contains a layout that shows how the project should look on the most c
 
 **GitHub Pages**
 
-*[Link to the GitHub Pages](#)
+* [Link to the GitHub Pages](#)
